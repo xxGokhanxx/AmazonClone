@@ -8,4 +8,4 @@ Just basic clone of Amazon main webpage
 
 ![](images/ss-1.png)
 
-![](images//ss-2.png)# AmazonClone
+![](images//ss-3.png)# AmazonClone
